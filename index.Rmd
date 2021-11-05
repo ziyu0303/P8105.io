@@ -1,0 +1,12 @@
+---
+title: "Ziyu's personal website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: sandstone
+---
+
+# This is Ziyu's website
+
+![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
